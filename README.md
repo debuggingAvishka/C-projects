@@ -1,6 +1,6 @@
 # C-projects
 
-This repository contains short and interactive projects based on the C programming language.
+This  repository contains short and interactive projects based on the C programming language.
 
 ## Project: Rock Paper Scissors Game
 
